@@ -3,11 +3,11 @@
 #show: resume
 
 #header(
-  name: "Korina Goldsmith",
-  // phone: "704-804-1261",
-  email: "korina@gatech.edu",
-  linkedin: "linkedin.com/in/korinagoldsmith",
-  site: "github.com/korinagoldsmith",
+  name: "Aakrishtaa Kumar",
+  // phone: "404-740-8020",
+  email: "akumar851@gatech.edu",
+  linkedin: "linkedin.com/in/aakrishtaa",
+  site: "github.com/aakrishtaa",
 )
 
 #resume_heading[Education]
